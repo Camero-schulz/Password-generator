@@ -1,5 +1,5 @@
 # This program will generate a random password
-# from curses.ascii import isdigit
+# from curses.ascii import isdigit hi
 from random import randrange
 
 
